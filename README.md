@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan
-- 👀 I’m interested in back-end and frontend programming.
-- 🌱 I’m currently learning python and web development.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development using Django, javascript, html, and CSS.
 - 💞️ I’m looking to collaborate on any projects that will help me improve my backend and frontend skills.
 - 📫 How to reach me: https://www.linkedin.com/in/tacuribryan/
 
